@@ -1,0 +1,36 @@
+h1{
+    color: #01d4ff;
+    border: 10px solid #00cc5f;
+    background-color: #2f385f;
+}
+body{
+    background-color: aliceblue;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol{
+    font-family: comic sans ms;
+}
+
+.intro{
+   
+    background-color: #ba2124;
+    padding: 30px;
+    margin-top: 20px;
+    font-weight: 400;
+    justify-content: center
+
+}
+
+.origamis{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
